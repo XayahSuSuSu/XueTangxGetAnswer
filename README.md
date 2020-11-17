@@ -10,7 +10,7 @@
 
 4.F5或者刷新本页面.  
 
-5.在刚刚的网络(Network)窗口下方中找到名称(Name)并点击,找到key为cookie对应的内容.  
+5.在刚刚的网络(Network)窗口下方中找到名称(Name),在下方找到www.xuetangx.com并点击,在右侧找到key为cookie对应的内容.  
 
 6.下载本项目.  
 
