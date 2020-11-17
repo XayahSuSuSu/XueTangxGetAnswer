@@ -2,7 +2,7 @@
 import json
 import requests
 
-cookie = '_ga=GA1.2.701072742.1605351301; _gid=GA1.2.528251336.1605351301; login_type=WX; csrftoken=7SLT6mBB7Crz06S5ToPEVtZ7DDaSUrzB; sessionid=z4fgibso2hw40gx9ooogxj772he5vaxn; provider=xuetang; django_language=zh; k=34551347; _gat_gtag_UA_164784773_1=1'
+cookie = ''
 headers = {
     'authority': 'www.xuetangx.com',
     'accept': 'application/json, text/plain, */*',
