@@ -8,15 +8,15 @@
 
 3.在弹出的DevTools窗口中选择网络(Network),点击其正下方的红色按钮右边的清除按钮(可以不点，如果下方有内容则点了接下来比较方便查找)  
 
-![avatar](images/3.png)
+![3](images/3.png)
 
 4.F5或者刷新本页面.  
 
 5.在刚刚的网络(Network)窗口下方中找到名称(Name),在下方找到www.xuetangx.com并点击,在右侧找到key为cookie对应的内容.  
 
-![avatar](images/5.png)
+![5](images/5.png)
 
-![avatar](images/5.5.png)
+![5.5](images/5.5.png)
 
 6.下载本项目.  
 

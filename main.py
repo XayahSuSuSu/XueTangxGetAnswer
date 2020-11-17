@@ -2,7 +2,7 @@
 import json
 import requests
 # 在下面输入你的cookie
-cookie = ''
+cookie = '你的cookie'
 # 在上面输入你的cookie
 headers = {
     'authority': 'www.xuetangx.com',
