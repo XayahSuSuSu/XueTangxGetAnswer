@@ -1,8 +1,9 @@
 # -*- coding: utf-8 -*-
 import json
 import requests
-
+# 在下面输入你的cookie
 cookie = ''
+# 在上面输入你的cookie
 headers = {
     'authority': 'www.xuetangx.com',
     'accept': 'application/json, text/plain, */*',
